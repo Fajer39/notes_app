@@ -1,0 +1,12 @@
+.NoteInput {
+  display: block;
+  width: 100%;
+  resize: none;
+  margin-bottom: 10px;
+}
+.NoteForm__Buttons {
+  margin: 10px 0;
+}
+.NoteForm__Buttons button:not(:first-child) {
+  margin: 0 10px;
+}

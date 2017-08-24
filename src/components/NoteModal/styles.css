@@ -1,0 +1,6 @@
+.NoteModal__Buttons {
+  margin: 10px 0;
+}
+.NoteModal__Buttons button:not(:first-child) {
+  margin: 0 10px;
+}

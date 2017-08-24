@@ -1,0 +1,14 @@
+.Note {
+  border: 1px solid #cdcdcd;
+  border-radius: 5px;
+  padding: 15px;
+  margin: 10px 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transition: all 0.3s ease-in-out;
+}
+.Note:hover {
+  background: #eeeeee;
+  cursor: pointer;
+}
